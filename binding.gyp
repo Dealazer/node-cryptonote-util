@@ -30,9 +30,6 @@
                   "-fexceptions",
                   "-frtti",
             ],
-            "xcode_settings": {
-              "OTHER_CFLAGS": ["-fexceptions", "-frtti"]
-            }
         }
     ]
 }
